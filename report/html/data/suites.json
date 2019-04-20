@@ -1,0 +1,69 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "testcase",
+    "children" : [ {
+      "name" : "E:\\workspace\\PytestAPI\\testcase\\sys.test_getUserInfo.Test_userInfo.test_userInfo",
+      "uid" : "51e38434b168c25f",
+      "parentUid" : "7d3977dcbf31acd3e26ecbe96342e45e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554607810444,
+        "stop" : 1554607810553,
+        "duration" : 109
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "E:\\workspace\\PytestAPI\\testcase\\sys.test_sys_changepwd.Test_changePwd.test_changepwdnew",
+      "uid" : "b338c9245b72ca38",
+      "parentUid" : "7d3977dcbf31acd3e26ecbe96342e45e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554607810553,
+        "stop" : 1554607810631,
+        "duration" : 78
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "E:\\workspace\\PytestAPI\\testcase\\sys.test_sys_changepwd.Test_changePwd.test_changepwdold",
+      "uid" : "5343513b96dfe857",
+      "parentUid" : "7d3977dcbf31acd3e26ecbe96342e45e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554607810631,
+        "stop" : 1554607810694,
+        "duration" : 63
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "E:\\workspace\\PytestAPI\\testcase\\sys.test_sys_login.Test_Login.test_login_success",
+      "uid" : "c4bb754a41e313fb",
+      "parentUid" : "7d3977dcbf31acd3e26ecbe96342e45e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554607810694,
+        "stop" : 1554607810772,
+        "duration" : 78
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "E:\\workspace\\PytestAPI\\testcase\\user.test_saveOrUpdateUser.Test_saveOrUpdateUser.test_regiter_success",
+      "uid" : "25cf8ec9bbdb0a77",
+      "parentUid" : "7d3977dcbf31acd3e26ecbe96342e45e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554607810772,
+        "stop" : 1554607810897,
+        "duration" : 125
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "7d3977dcbf31acd3e26ecbe96342e45e"
+  } ]
+}

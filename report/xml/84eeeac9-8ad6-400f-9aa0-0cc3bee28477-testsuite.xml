@@ -1,0 +1,76 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1554607810444" stop="1554607810897">
+  <name>testcase</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1554607810444" status="passed" stop="1554607810553">
+      <name>E:\workspace\PytestAPI\testcase\sys.test_getUserInfo.Test_userInfo.test_userInfo</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="获取用户信息模块"/>
+        <label name="story" value="获取用户信息成功"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="4512-MainThread"/>
+        <label name="host" value="DESKTOP-4H0PHVU"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554607810553" status="passed" stop="1554607810631">
+      <name>E:\workspace\PytestAPI\testcase\sys.test_sys_changepwd.Test_changePwd.test_changepwdnew</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="修改密码模块"/>
+        <label name="story" value="修改密码成功"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="4512-MainThread"/>
+        <label name="host" value="DESKTOP-4H0PHVU"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554607810631" status="passed" stop="1554607810694">
+      <name>E:\workspace\PytestAPI\testcase\sys.test_sys_changepwd.Test_changePwd.test_changepwdold</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="修改密码模块"/>
+        <label name="story" value="恢复密码成功"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="4512-MainThread"/>
+        <label name="host" value="DESKTOP-4H0PHVU"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554607810694" status="passed" stop="1554607810772">
+      <name>E:\workspace\PytestAPI\testcase\sys.test_sys_login.Test_Login.test_login_success</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="用户登录模块模块"/>
+        <label name="story" value="用户登录成功"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="4512-MainThread"/>
+        <label name="host" value="DESKTOP-4H0PHVU"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554607810772" status="passed" stop="1554607810897">
+      <name>E:\workspace\PytestAPI\testcase\user.test_saveOrUpdateUser.Test_saveOrUpdateUser.test_regiter_success</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="注册登录校验模块"/>
+        <label name="story" value="注册登录校验成功"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="4512-MainThread"/>
+        <label name="host" value="DESKTOP-4H0PHVU"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

@@ -1,0 +1,7 @@
+{
+  "testcase/sys/test_getUserInfo.py::Test_userInfo::()::test_userInfo": true,
+  "testcase/test_getuserinfo.py::Test_getUserInfo::()::test_first2": true,
+  "testcase/test_getuserinfo.py::Test_getUserInfo::()::test_first3": true,
+  "testcase/test_getuserinfo.py::Test_getUserInfo::()::test_getuserinfo": true,
+  "testcase/user/test_saveOrUpdateUser.py::Test_saveOrUpdateUser::()::test_login2": true
+}

@@ -1,0 +1,66 @@
+{
+  "uid" : "25cf8ec9bbdb0a77",
+  "name" : "E:\\workspace\\PytestAPI\\testcase\\user.test_saveOrUpdateUser.Test_saveOrUpdateUser.test_regiter_success",
+  "fullName" : "testcase.E:\\workspace\\PytestAPI\\testcase\\user.test_saveOrUpdateUser.Test_saveOrUpdateUser.test_regiter_success",
+  "historyId" : "e61cd3bc600d304f9c81383fb48ebc3d",
+  "time" : {
+    "start" : 1554607810772,
+    "stop" : 1554607810897,
+    "duration" : 125
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "注册登录校验模块"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4H0PHVU"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "注册登录校验成功"
+  }, {
+    "name" : "thread",
+    "value" : "4512-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "E:\\workspace\\PytestAPI\\testcase\\user.test_saveOrUpdateUser.Test_saveOrUpdateUser.test_regiter_success"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "25cf8ec9bbdb0a77.json",
+  "parameterValues" : [ ]
+}

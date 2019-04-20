@@ -1,0 +1,101 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "获取用户信息模块",
+    "children" : [ {
+      "name" : "获取用户信息成功",
+      "children" : [ {
+        "name" : "E:\\workspace\\PytestAPI\\testcase\\sys.test_getUserInfo.Test_userInfo.test_userInfo",
+        "uid" : "51e38434b168c25f",
+        "parentUid" : "f7838b203c62d28aa1918feba083c8e9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554607810444,
+          "stop" : 1554607810553,
+          "duration" : 109
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f7838b203c62d28aa1918feba083c8e9"
+    } ],
+    "uid" : "de92305d835ca068670dae1d51a782c9"
+  }, {
+    "name" : "修改密码模块",
+    "children" : [ {
+      "name" : "修改密码成功",
+      "children" : [ {
+        "name" : "E:\\workspace\\PytestAPI\\testcase\\sys.test_sys_changepwd.Test_changePwd.test_changepwdnew",
+        "uid" : "b338c9245b72ca38",
+        "parentUid" : "a38462b3f4314282ccc0eb63786aa59e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554607810553,
+          "stop" : 1554607810631,
+          "duration" : 78
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a38462b3f4314282ccc0eb63786aa59e"
+    }, {
+      "name" : "恢复密码成功",
+      "children" : [ {
+        "name" : "E:\\workspace\\PytestAPI\\testcase\\sys.test_sys_changepwd.Test_changePwd.test_changepwdold",
+        "uid" : "5343513b96dfe857",
+        "parentUid" : "c056af64906bbc55e209cde2e0170040",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554607810631,
+          "stop" : 1554607810694,
+          "duration" : 63
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c056af64906bbc55e209cde2e0170040"
+    } ],
+    "uid" : "305a3b4fed53266ad019359911e11777"
+  }, {
+    "name" : "用户登录模块模块",
+    "children" : [ {
+      "name" : "用户登录成功",
+      "children" : [ {
+        "name" : "E:\\workspace\\PytestAPI\\testcase\\sys.test_sys_login.Test_Login.test_login_success",
+        "uid" : "c4bb754a41e313fb",
+        "parentUid" : "574dc1df71218db969e44cf5cfc4879e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554607810694,
+          "stop" : 1554607810772,
+          "duration" : 78
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "574dc1df71218db969e44cf5cfc4879e"
+    } ],
+    "uid" : "ac240f7de36860a6eed31b3de465a8ae"
+  }, {
+    "name" : "注册登录校验模块",
+    "children" : [ {
+      "name" : "注册登录校验成功",
+      "children" : [ {
+        "name" : "E:\\workspace\\PytestAPI\\testcase\\user.test_saveOrUpdateUser.Test_saveOrUpdateUser.test_regiter_success",
+        "uid" : "25cf8ec9bbdb0a77",
+        "parentUid" : "3a6a37cc1d33d3152d2d721fae2e3c32",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554607810772,
+          "stop" : 1554607810897,
+          "duration" : 125
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3a6a37cc1d33d3152d2d721fae2e3c32"
+    } ],
+    "uid" : "3356fae6c46aef7f86c28daa4331a5b4"
+  } ]
+}

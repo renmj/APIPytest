@@ -1,0 +1,7 @@
+[
+  "testcase/sys/test_getUserInfo.py::Test_userInfo::()::test_userInfo",
+  "testcase/sys/test_sys_changepwd.py::Test_changePwd::()::test_changepwdnew",
+  "testcase/sys/test_sys_changepwd.py::Test_changePwd::()::test_changepwdold",
+  "testcase/sys/test_sys_login.py::Test_Login::()::test_login_success",
+  "testcase/user/test_saveOrUpdateUser.py::Test_saveOrUpdateUser::()::test_regiter_success"
+]

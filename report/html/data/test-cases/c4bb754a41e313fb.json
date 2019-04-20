@@ -1,0 +1,66 @@
+{
+  "uid" : "c4bb754a41e313fb",
+  "name" : "E:\\workspace\\PytestAPI\\testcase\\sys.test_sys_login.Test_Login.test_login_success",
+  "fullName" : "testcase.E:\\workspace\\PytestAPI\\testcase\\sys.test_sys_login.Test_Login.test_login_success",
+  "historyId" : "de85765babf63c0fe2b3a96b363f8b12",
+  "time" : {
+    "start" : 1554607810694,
+    "stop" : 1554607810772,
+    "duration" : 78
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "用户登录模块模块"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4H0PHVU"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "用户登录成功"
+  }, {
+    "name" : "thread",
+    "value" : "4512-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "E:\\workspace\\PytestAPI\\testcase\\sys.test_sys_login.Test_Login.test_login_success"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c4bb754a41e313fb.json",
+  "parameterValues" : [ ]
+}

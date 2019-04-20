@@ -1,0 +1,6 @@
+"Status","Name","Duration in ms","Description"
+"passed","testcase.E:\workspace\PytestAPI\testcase\sys.test_sys_changepwd.Test_changePwd.test_changepwdnew","78",""
+"passed","testcase.E:\workspace\PytestAPI\testcase\sys.test_sys_changepwd.Test_changePwd.test_changepwdold","63",""
+"passed","testcase.E:\workspace\PytestAPI\testcase\sys.test_sys_login.Test_Login.test_login_success","78",""
+"passed","testcase.E:\workspace\PytestAPI\testcase\user.test_saveOrUpdateUser.Test_saveOrUpdateUser.test_regiter_success","125",""
+"passed","testcase.E:\workspace\PytestAPI\testcase\sys.test_getUserInfo.Test_userInfo.test_userInfo","109",""
